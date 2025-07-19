@@ -7,7 +7,7 @@ const preCache = [
   "/ThUndertaker.github.io/css/style.css",
   "/ThUndertaker.github.io/js/script.js",
 ];
-const VERSION = "1752940395563";
+const VERSION = "1752941576457";
 const cacheDomain = [
   "fonts.googleapis.com",
   "npm.webcache.cn",
